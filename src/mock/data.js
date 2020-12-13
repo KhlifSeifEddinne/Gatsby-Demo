@@ -78,7 +78,7 @@ export const footerData = {
     {
       id: nanoid(),
       name: 'linkedin',
-      url: '',
+      url: 'https://www.linkedin.com/in/saif-eddin-khlif-a4b562164/',
     },
     {
       id: nanoid(),
